@@ -27,7 +27,7 @@ class MainpageFragment : Fragment() {
         val c4 = ContentModels(4,"studyenvironment","paulosantos","Library Sounds | Study Ambience | 2 hours ","Study With Me","987K views","6 months ago")
         val c5 = ContentModels(5,"erik","paulosantos","Erik Satie - Gnossienne No.1 (Extended)"," Paul Santos","7.8M views","4 years ago")
         val c6 = ContentModels(6,"godfather","thebeautyof","The God Father","The Beauty of","5.6M views","11 years ago")
-        val c7 = ContentModels(7,"vampirkoylu","ohadiyorumvideo","Test","Oha Diyorum!","173K views","2 years ago")
+        val c7 = ContentModels(7,"vampirkoylu","ohadiyorumvideo","Tüm Ekip Vampir Köylü Oynadık!","Oha Diyorum!","173K views","2 years ago")
 
         contentList.add(c1)
         contentList.add(c2)
